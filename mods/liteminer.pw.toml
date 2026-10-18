@@ -1,0 +1,13 @@
+name = "Liteminer"
+filename = "liteminer-neoforge-4.5.2+26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VTnHoofC/versions/JOw19EIn/liteminer-neoforge-4.5.2%2B26.2.jar"
+hash-format = "sha512"
+hash = "dcfc3e85f4e1c9ef9d7cd6f53de6ea46a926e44e92f9dec254f83198588fc209af29d7e8662cec6723df6c72296235d469bfd7ae614e04659e3fa29253d3a2a2"
+
+[update]
+[update.modrinth]
+mod-id = "VTnHoofC"
+version = "JOw19EIn"

@@ -1,0 +1,13 @@
+name = "Ping Wheel"
+filename = "Ping-Wheel-1.12.1-neoforge-26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QQXAdCzh/versions/GpkuKrbi/Ping-Wheel-1.12.1-neoforge-26.2.jar"
+hash-format = "sha512"
+hash = "990a899630d700c4ef488b37166c279062941313691ef35274fca1175eaaf9016f547ba4dbdba81a2ed161bddba492d84d2d6499e4537fccb81794a90783ad8e"
+
+[update]
+[update.modrinth]
+mod-id = "QQXAdCzh"
+version = "GpkuKrbi"

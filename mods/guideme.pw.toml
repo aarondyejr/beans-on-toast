@@ -1,0 +1,13 @@
+name = "GuideME"
+filename = "guideme-26.2.2-alpha.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ck4E7v7R/versions/kCCUXhEU/guideme-26.2.2-alpha.jar"
+hash-format = "sha512"
+hash = "08fea710bd9edec972754dc76c4f06d470d8ec2c73f12e145fc656023c954fd01e699a812ace279cf4d2a427e3b205546339a389e474e62ff043a15a827dd851"
+
+[update]
+[update.modrinth]
+mod-id = "Ck4E7v7R"
+version = "kCCUXhEU"

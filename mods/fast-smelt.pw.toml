@@ -1,0 +1,13 @@
+name = "Fast Smelt"
+filename = "fast-smelt-v1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Atrim34m/versions/WZS9Glhy/fast-smelt-v1.1.1.jar"
+hash-format = "sha512"
+hash = "23ff49d7a0625d7e9e37ecf63f55e5c889445afe568e3202b822eccdf13525200a387bd0c8e3d6a74fa4db29025f73b9219b5e364a3f49b1f884fc493d1d30f6"
+
+[update]
+[update.modrinth]
+mod-id = "Atrim34m"
+version = "WZS9Glhy"

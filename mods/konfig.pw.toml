@@ -1,0 +1,13 @@
+name = "Konfig"
+filename = "konfig-neoforge-0.10.2+26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pp7kIrlM/versions/CbmmDVo4/konfig-neoforge-0.10.2%2B26.2.jar"
+hash-format = "sha512"
+hash = "2b7d2ecdc198fd54e851e589672c3ea0549f83ade086cf91e1c13ad559b07aa88e7d7a45760333c6e3ab5ae7f79777e5bc2089d152609bd8734a54fbffbbf42f"
+
+[update]
+[update.modrinth]
+mod-id = "pp7kIrlM"
+version = "CbmmDVo4"
