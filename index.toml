@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "check.ps1"
-hash = "4d58b41d4846076d9fa3b1326f91e3bc29c90d1f89870cc3fcfab52342b74754"
-
-[[files]]
-file = "import.ps1"
-hash = "bc4fd660fdbc26b5bb5a7a495d1e7ecaf26e57d184d4bcc6b62b467e4dd4340c"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "dd0995bccdc4356471641d855044f9c30f35f66b108774d61d274878cc96eb65"
 metafile = true
